@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiDBG9pJKs7bVlPBop4G1L5sSwa9xwxNg1ZakRbEj7L+aIxi6MM4148vX4J/2bjWzBDnCLUDDWSAj39laPfTzw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\Data-structures-and-algorithm\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.4.5)' for 'net7.0'.",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.5.0)' for 'net7.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit (>= 2.4.2)' for 'net7.0'.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 3.2.0)' for 'net7.0'.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

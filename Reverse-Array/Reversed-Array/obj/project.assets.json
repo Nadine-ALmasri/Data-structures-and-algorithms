@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Data-structures-and-algorithms\\Reverse-Array\\Reversed-Array\\Reversed-Array.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\Data-structures-and-algorithm\\Reverse-Array\\Reversed-Array\\Reversed-Array.csproj",
       "projectName": "Reversed-Array",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Data-structures-and-algorithms\\Reverse-Array\\Reversed-Array\\Reversed-Array.csproj",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\Data-structures-and-algorithm\\Reverse-Array\\Reversed-Array\\Reversed-Array.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Data-structures-and-algorithms\\Reverse-Array\\Reversed-Array\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\Data-structures-and-algorithm\\Reverse-Array\\Reversed-Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,10 +26,6 @@
       "originalTargetFrameworks": [
         "net7.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
